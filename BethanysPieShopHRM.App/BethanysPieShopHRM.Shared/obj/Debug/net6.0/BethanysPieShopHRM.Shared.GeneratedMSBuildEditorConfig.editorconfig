@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BethanysPieShopHRM.Shared
-build_property.ProjectDir = C:\Users\Christian\Desktop\PROJECTS\BLAZOR\BethanysPieShop\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\
+build_property.ProjectDir = C:\Users\Christian\Desktop\GitHub\BethanyPieShop\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\
